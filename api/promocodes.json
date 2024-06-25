@@ -1,0 +1,25 @@
+{
+    "promocodes": [
+        {
+            "id": 1,
+            "code": "Pedal Pulse Cycles",
+            "image": "http://spinride.rn-admin.site/storage/KhD3Mr9qcsAPTJ9k3OmsG9un2mawTdKoe7S8v2Qm.png",
+            "discount": 50,
+            "expires_at": "Jan 24, 2025"
+        },
+        {
+            "id": 2,
+            "code": "Velocity Vibes Bikes",
+            "image": "http://spinride.rn-admin.site/storage/Y5txTjF0GHGAn9zzg8jyk7aCQPbPeYMMrEtx5WbY.jpg",
+            "discount": 30,
+            "expires_at": "Dec 27, 2024"
+        },
+        {
+            "id": 3,
+            "code": "Spoke & Wheel",
+            "image": "http://spinride.rn-admin.site/storage/CauFe1k2Kcycqz7kLvv3O86bp0xTCWR6dTG7nAZI.jpg",
+            "discount": 15,
+            "expires_at": "Nov 22, 2024"
+        }
+    ]
+}
