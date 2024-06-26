@@ -1,0 +1,30 @@
+{
+    "orders": [
+        {
+            "id": "456345",
+            "date": "Feb 02, 2024 at 8:32 PM",
+            "status": "shipping",
+            "total": 354.32,
+            "products": [
+                {
+                    "id": "1",
+                    "name": "Velocity Runners, 41, white"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "code": "Velocity Vibes Bikes",
+            "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
+            "discount": 30,
+            "expiry": "Dec 27, 2024"
+        },
+        {
+            "id": 3,
+            "code": "Spoke & Wheel",
+            "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
+            "discount": 15,
+            "expiry": "Nov 22, 2024"
+        }
+    ]
+}
