@@ -1,14 +1,18 @@
 {
     "orders": [
         {
-            "id": "456345",
+            "id": 456345,
             "date": "Feb 02, 2024 at 8:32 PM",
             "status": "shipping",
             "total": 354.32,
             "products": [
                 {
-                    "id": "1",
-                    "name": "Velocity Runners, 41, white"
+                    "id": 1,
+                    "name": "FlexFit Training Shoes",
+                    "size": 41,
+                    "color": "blue",
+                    "quantity": 1,
+                    "price": 73.99
                 }
             ]
         },
