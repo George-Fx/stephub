@@ -25,18 +25,52 @@
             ]
         },
         {
-            "id": 2,
-            "code": "Velocity Vibes Bikes",
-            "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
-            "discount": 30,
-            "expiry": "Dec 27, 2024"
+            "id": 456346,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "delivered",
+            "total": 354.32,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "FlexFit Training Shoes",
+                    "size": 41,
+                    "color": "blue",
+                    "quantity": 1,
+                    "price": 73.99
+                },
+                {
+                    "id": 2,
+                    "name": "Basketball Shoes",
+                    "size": 41,
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 55.99
+                }
+            ]
         },
         {
-            "id": 3,
-            "code": "Spoke & Wheel",
-            "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
-            "discount": 15,
-            "expiry": "Nov 22, 2024"
-        }
+            "id": 456347,
+            "date": "Feb 07, 2024 at 8:32 PM",
+            "status": "canceled",
+            "total": 354.32,
+            "products": [
+                {
+                    "id": 1,
+                    "name": "FlexFit Training Shoes",
+                    "size": 41,
+                    "color": "blue",
+                    "quantity": 1,
+                    "price": 73.99
+                },
+                {
+                    "id": 2,
+                    "name": "Basketball Shoes",
+                    "size": 41,
+                    "color": "white",
+                    "quantity": 1,
+                    "price": 55.99
+                }
+            ]
+        },
     ]
 }
