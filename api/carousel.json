@@ -1,9 +1,19 @@
 {
-    "banners": [
+    "carousel": [
         {
             "id": 1,
-            "image": "https://stephub.rn-admin.site/storage/xNlNbS7rWxUI2KGSBLCcoIjuC4TbnYQJwE2bqIOe.png",
-            "promotion": "Take 50% Off Now!"
+            "image": "https://stephub.rn-admin.site/storage/05QybO7CnOtelbyIEyTBK0rG5WDrSVEC2uTUyhEK.png",
+            "promotion": "Welcome To StepHub! 50% Off"
+        },
+        {
+            "id": 2,
+            "image": "https://stephub.rn-admin.site/storage/MvXZPCRmUug86RJSZJPxRGLsipImdn45MQ6RjrT5.png",
+            "promotion": "Welcome To StepHub! 50% Off"
+        },
+        {
+            "id": 3,
+            "image": "https://stephub.rn-admin.site/storage/TzdtInURkM1cj4oaILxgVorb6BP3sBQCVv86NuPZ.png",
+            "promotion": "Welcome To StepHub! 50% Off"
         }
     ]
 }
