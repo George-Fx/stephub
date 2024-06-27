@@ -40,6 +40,45 @@
             "oldPrice": "109.00"
         },
         {
+            "id": 2,
+            "sizes": [
+                "39",
+                "42"
+            ],
+            "tags": [
+                "Comfortable"
+            ],
+            "name": "FlexFit Training Shoes",
+            "colors": [
+                "Maya Blue",
+                "Champagne",
+                "Delft blue"
+            ],
+            "images": [
+                "https://george-fx.github.io/stephub/assets/products/01.jpg",
+                "https://george-fx.github.io/stephub/assets/products/01.jpg",
+                "https://george-fx.github.io/stephub/assets/products/01.jpg"
+            ],
+            "image": "https://george-fx.github.io/stephub/assets/products/01.jpg",
+            "audience": [
+                "Men"
+            ],
+            "categories": [
+                "Athletic Shoes"
+            ],
+            "description": "Get ready to elevate your workout game with our FlexFit Training Shoes. Engineered for maximum performance and comfort, these shoes are designed to support you thro...",
+            "rating": 0,
+            "quantity": null,
+            "promotion": "Welcome To StepHub! 50% Off",
+            "isNew": true,
+            "isTop": false,
+            "ratingCount": 0,
+            "price": "76.99",
+            "isFeatured": true,
+            "isBestSeller": true,
+            "oldPrice": "109.00"
+        },
+        {
             "id": 3,
             "sizes": [
                 "39",
@@ -60,7 +99,7 @@
                 "https://stephub.rn-admin.site/storage/Hn3vR1SvomEfPlTipjdZIFayCriLMkkQrOvChGmn.jpg",
                 "https://stephub.rn-admin.site/storage/qXlvgxaTPJ26sXdWsmYbKlIb33oR4tCKaOrtlneh.jpg"
             ],
-            "image": "https://stephub.rn-admin.site/storage/imKzDyx6EFtYgspvpv0r3o40UqhSuVVELUGP7VRn.jpg",
+            "image": "https://george-fx.github.io/stephub/assets/products/02.jpg",
             "audience": [
                 "Men"
             ],
@@ -99,7 +138,7 @@
                 "https://stephub.rn-admin.site/storage/Jga2ihap4Ou3tLIuxhelY7rvWx4QuJAtCa9EwNb1.jpg",
                 "https://stephub.rn-admin.site/storage/jCt9FH7vMbIrlhdQ53sF4SuQWxh8ABxnL54zQ9gd.jpg"
             ],
-            "image": "https://stephub.rn-admin.site/storage/56GFGEFb4IgRIU4cTVIVlbNgO1mQ105b4U6jtKzQ.jpg",
+            "image": "https://george-fx.github.io/stephub/assets/products/03.jpg",
             "audience": [
                 "Men"
             ],
@@ -139,7 +178,7 @@
                 "https://stephub.rn-admin.site/storage/Babhzgt0Np10Gdn8vNZMcj2ZtRjz2MPPIXbSAD7l.jpg",
                 "https://stephub.rn-admin.site/storage/vFpL9U6Di1xZP5ndhmRImOz5ciyCgElj1HntonFo.jpg"
             ],
-            "image": "https://stephub.rn-admin.site/storage/V9rImmq7ld1Xo8iuM0lZcAYiVFc4mynzLLV5UXMM.jpg",
+            "image": "https://george-fx.github.io/stephub/assets/products/04.jpg",
             "audience": [
                 "Women"
             ],
@@ -178,7 +217,7 @@
                 "https://stephub.rn-admin.site/storage/DM4zzGxiirshMXHFDYO0knVtG6C8Hcwb30QMQAfP.jpg",
                 "https://stephub.rn-admin.site/storage/4mz1JlzCuXDQ9ioBGmu9EI43Quqc9N47jsa4CUBx.jpg"
             ],
-            "image": "https://stephub.rn-admin.site/storage/kyuxk7YRZcClgIyXsqcTN05vpOXkHxbj9G3EjRBd.jpg",
+            "image": "https://george-fx.github.io/stephub/assets/products/05.jpg",
             "audience": [
                 "Men"
             ],
