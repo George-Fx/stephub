@@ -15,6 +15,14 @@
             "date": "23 Jan 2024",
             "photo": "https://george-fx.github.io/stephub/assets/users/02.jpg",
             "comment": "FlexFit Training Shoes are a game-changer! As someone who spends hours in the gym, I appreciate the durability and comfort they offer."
+        },
+        {
+            "id": 3,
+            "name": "Marcus Nguyen",
+            "rating": 3,
+            "date": "23 Jan 2024",
+            "photo": "https://george-fx.github.io/stephub/assets/users/02.jpg",
+            "comment": "FlexFit Training Shoes are a game-changer! As someone who spends hours in the gym, I appreciate the durability and comfort they offer."
         }
     ]
 }
