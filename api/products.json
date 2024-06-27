@@ -11,9 +11,31 @@
             ],
             "name": "FlexFit Training Shoes",
             "colors": [
-                "Maya Blue",
-                "Champagne",
-                "Delft blue"
+                {
+                    "id": 1,
+                    "name": "Pastel Red",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": 3,
+                    "name": "Champagne",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": 4,
+                    "name": "Delft blue",
+                    "code": "#193364"
+                },
+                {
+                    "id": 5,
+                    "name": "Black",
+                    "code": "#000000"
+                }
             ],
             "images": [
                 "https://george-fx.github.io/stephub/assets/products/01.jpg",
