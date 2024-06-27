@@ -2,17 +2,17 @@
     "carousel": [
         {
             "id": 1,
-            "image": "https://stephub.rn-admin.site/storage/05QybO7CnOtelbyIEyTBK0rG5WDrSVEC2uTUyhEK.png",
+            "image": "https://george-fx.github.io/stephub/assets/carousel/01.png",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 2,
-            "image": "https://stephub.rn-admin.site/storage/MvXZPCRmUug86RJSZJPxRGLsipImdn45MQ6RjrT5.png",
+            "image": "https://george-fx.github.io/stephub/assets/carousel/01.png",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 3,
-            "image": "https://stephub.rn-admin.site/storage/TzdtInURkM1cj4oaILxgVorb6BP3sBQCVv86NuPZ.png",
+            "image": "https://george-fx.github.io/stephub/assets/carousel/01.png",
             "promotion": "Welcome To StepHub! 50% Off"
         }
     ]
