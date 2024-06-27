@@ -71,10 +71,32 @@
                 "Comfortable"
             ],
             "name": "FlexFit Training Shoes",
-            "colors": [
-                "Maya Blue",
-                "Champagne",
-                "Delft blue"
+           "colors": [
+                {
+                    "id": 1,
+                    "name": "Pastel Red",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": 3,
+                    "name": "Champagne",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": 4,
+                    "name": "Delft blue",
+                    "code": "#193364"
+                },
+                {
+                    "id": 5,
+                    "name": "Black",
+                    "code": "#000000"
+                }
             ],
             "images": [
                 "https://george-fx.github.io/stephub/assets/products/02.jpg",
@@ -112,9 +134,31 @@
             ],
             "name": "Seeker Hiking Boots",
             "colors": [
-                "Maya Blue",
-                "Champagne",
-                "Black"
+                {
+                    "id": 1,
+                    "name": "Pastel Red",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": 3,
+                    "name": "Champagne",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": 4,
+                    "name": "Delft blue",
+                    "code": "#193364"
+                },
+                {
+                    "id": 5,
+                    "name": "Black",
+                    "code": "#000000"
+                }
             ],
             "images": [
                 "https://george-fx.github.io/stephub/assets/products/03.jpg",
@@ -152,8 +196,31 @@
             ],
             "name": "Dapper Derby Shoes",
             "colors": [
-                "Champagne",
-                "Black"
+                {
+                    "id": 1,
+                    "name": "Pastel Red",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": 3,
+                    "name": "Champagne",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": 4,
+                    "name": "Delft blue",
+                    "code": "#193364"
+                },
+                {
+                    "id": 5,
+                    "name": "Black",
+                    "code": "#000000"
+                }
             ],
             "images": [
                 "https://george-fx.github.io/stephub/assets/products/04.jpg",
@@ -190,10 +257,32 @@
                 "Comfortable"
             ],
             "name": "Urban Charm Sneakers",
-            "colors": [
-                "Pastel Red",
-                "Maya Blue",
-                "Delft blue"
+           "colors": [
+                {
+                    "id": 1,
+                    "name": "Pastel Red",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": 3,
+                    "name": "Champagne",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": 4,
+                    "name": "Delft blue",
+                    "code": "#193364"
+                },
+                {
+                    "id": 5,
+                    "name": "Black",
+                    "code": "#000000"
+                }
             ],
             "images": [
                 "https://george-fx.github.io/stephub/assets/products/05.jpg",
@@ -230,9 +319,32 @@
                 "Hiking Boots"
             ],
             "name": "Seeker Hiking Bootss",
-            "colors": [
-                "Champagne",
-                "Black"
+           "colors": [
+                {
+                    "id": 1,
+                    "name": "Pastel Red",
+                    "code": "#FF6262"
+                },
+                {
+                    "id": 2,
+                    "name": "Maya Blue",
+                    "code": "#63C7FF"
+                },
+                {
+                    "id": 3,
+                    "name": "Champagne",
+                    "code": "#F8E7CD"
+                },
+                {
+                    "id": 4,
+                    "name": "Delft blue",
+                    "code": "#193364"
+                },
+                {
+                    "id": 5,
+                    "name": "Black",
+                    "code": "#000000"
+                }
             ],
             "images": [
                 "https://george-fx.github.io/stephub/assets/products/06.jpg",
