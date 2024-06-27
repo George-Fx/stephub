@@ -1,3 +1,11 @@
 {
-    "reviews": []
+    "reviews": [
+        {
+            "id": 1,
+            "name": "Michael Thompson",
+            "rating": 3,
+            "date": "23 Jan 2024",
+            "comment": "I've tried numerous training shoes, but none compare to FlexFit. The support and flexibility they offer are unparalleled."
+        }
+    ]
 }
