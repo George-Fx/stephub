@@ -2,10 +2,11 @@
     "reviews": [
         {
             "id": 1,
-            "name": "Michael Thompson",
+            "name": "Emily Johnson",
             "rating": 3,
             "date": "23 Jan 2024",
-            "comment": "I've tried numerous training shoes, but none compare to FlexFit. The support and flexibility they offer are unparalleled."
+            "photo": "https://george-fx.github.io/stephub/assets/users/01.jpg",
+            "comment": "I've never felt more confident during my workouts until I tried FlexFit Training Shoes. They allow me to push myself to the limit every time."
         }
     ]
 }
