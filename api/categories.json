@@ -3,7 +3,7 @@
         {
             "id": 2,
             "name": "Athletic Shoes",
-            "image": "https://stephub.rn-admin.site/storage/ToaRjkdFXQf91ecT47CavMfnGa2vOw4HWeDoRT5A.png",
+            "image": "https://george-fx.github.io/stephub/assets/categories/01.png",
             "audience": [
                 "Men",
                 "Women"
@@ -12,7 +12,7 @@
         {
             "id": 3,
             "name": "Urban Shoes",
-            "image": "https://stephub.rn-admin.site/storage/EyE2KJaxFkULzQ17Bj8jhJiAqJtdG5FDhDfFqDZv.png",
+            "image": "https://george-fx.github.io/stephub/assets/categories/02.png",
             "audience": [
                 "Men",
                 "Women"
@@ -21,7 +21,7 @@
         {
             "id": 4,
             "name": "Specialty Shoes",
-            "image": "https://stephub.rn-admin.site/storage/VOpuuAo20RwmCh4QZXKedeNIZoMnyZBQwbYcxGyw.png",
+            "image": "https://george-fx.github.io/stephub/assets/categories/03.png",
             "audience": [
                 "Men"
             ]
@@ -29,7 +29,7 @@
         {
             "id": 5,
             "name": "Outdoor Shoes",
-            "image": "https://stephub.rn-admin.site/storage/BKgEdGRIJY2EdbHI2MnML0H8TTyFCn733wIgZSWZ.png",
+            "image": "https://george-fx.github.io/stephub/assets/categories/04.png",
             "audience": [
                 "Men"
             ]
@@ -37,7 +37,7 @@
         {
             "id": 6,
             "name": "Formal Shoes",
-            "image": "https://stephub.rn-admin.site/storage/HbgRph85ZkwTrWXIJTLJPXEz2adQsT7DuzTdPGpJ.png",
+            "image": "https://george-fx.github.io/stephub/assets/categories/05.png",
             "audience": [
                 "Men",
                 "Women",
@@ -47,7 +47,7 @@
         {
             "id": 7,
             "name": "Rocket Shoes",
-            "image": "https://stephub.rn-admin.site/storage/8AbKbk8pcyWghpawP6rJpTePv3eumTv5KwEM7UP9.png",
+           "image": "https://george-fx.github.io/stephub/assets/categories/06.png",
             "audience": [
                 "Men"
             ]
