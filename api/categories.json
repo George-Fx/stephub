@@ -1,7 +1,7 @@
 {
     "categories": [
         {
-            "id": 2,
+            "id": 1,
             "name": "Athletic Shoes",
             "image": "https://george-fx.github.io/stephub/assets/categories/01.png",
             "audience": [
@@ -10,7 +10,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": 2,
             "name": "Urban Shoes",
             "image": "https://george-fx.github.io/stephub/assets/categories/02.png",
             "audience": [
@@ -19,7 +19,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": 3,
             "name": "Specialty Shoes",
             "image": "https://george-fx.github.io/stephub/assets/categories/03.png",
             "audience": [
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": 4,
             "name": "Outdoor Shoes",
             "image": "https://george-fx.github.io/stephub/assets/categories/04.png",
             "audience": [
@@ -35,21 +35,13 @@
             ]
         },
         {
-            "id": 6,
+            "id": 5,
             "name": "Formal Shoes",
             "image": "https://george-fx.github.io/stephub/assets/categories/05.png",
             "audience": [
                 "Men",
                 "Women",
                 "Kids"
-            ]
-        },
-        {
-            "id": 7,
-            "name": "Rocket Shoes",
-           "image": "https://george-fx.github.io/stephub/assets/categories/06.png",
-            "audience": [
-                "Men"
             ]
         }
     ]
