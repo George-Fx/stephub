@@ -1,0 +1,64 @@
+{
+    "tags": [
+        {
+            "id": 1,
+            "name": "Sneakers"
+        },
+        {
+            "id": 2,
+            "name": "Loafers"
+        },
+        {
+            "id": 3,
+            "name": "Boat Shoes"
+        },
+        {
+            "id": 4,
+            "name": "Dress Shoes"
+        },
+        {
+            "id": 5,
+            "name": "Orthopedic"
+        },
+        {
+            "id": 6,
+            "name": "Derbies"
+        },
+        {
+            "id": 7,
+            "name": "Sandals"
+        },
+        {
+            "id": 8,
+            "name": "Flexible"
+        },
+        {
+            "id": 9,
+            "name": "Hiking Boots"
+        },
+        {
+            "id": 10,
+            "name": "Espadrilles"
+        },
+        {
+            "id": 11,
+            "name": "Stylish"
+        },
+        {
+            "id": 12,
+            "name": "Eco-Friendly"
+        },
+        {
+            "id": 13,
+            "name": "Waterproof"
+        },
+        {
+            "id": 14,
+            "name": "Oxfords"
+        },
+        {
+            "id": 15,
+            "name": "Comfortable"
+        }
+    ]
+}
