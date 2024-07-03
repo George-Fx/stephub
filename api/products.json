@@ -282,10 +282,7 @@
                 "44"
             ],
             "tags": [
-                "Hiking Boots",
-                "Waterproof",
                 "Comfortable",
-                "Flexible",
                 "Stylish"
             ],
             "name": "Urban Charm Sneakers",
@@ -351,7 +348,11 @@
                 "44"
             ],
             "tags": [
-                "Hiking Boots"
+                "Hiking Boots",
+                "Waterproof",
+                "Comfortable",
+                "Flexible",
+                "Stylish"
             ],
             "name": "Seeker Hiking Bootss",
             "colors": [
