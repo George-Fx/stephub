@@ -2,24 +2,24 @@
     "promocodes": [
         {
             "id": 1,
-            "code": "Pedal Pulse Cycles",
+            "code": "FootFlex Outlet",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/01.jpg",
             "discount": 50,
-            "expiry": "Jan 24, 2025"
+            "expiry": "june 30, 2024"
         },
         {
             "id": 2,
-            "code": "Velocity Vibes Bikes",
+            "code": "UrbanStride Showcase",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
             "discount": 30,
-            "expiry": "Dec 27, 2024"
+            "expiry": "june 30, 2024"
         },
         {
             "id": 3,
-            "code": "Spoke & Wheel",
+            "code": "SneakPeak Plaza",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
             "discount": 15,
-            "expiry": "Nov 22, 2024"
+            "expiry": "june 30, 2024"
         }
     ]
 }
