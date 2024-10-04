@@ -2,17 +2,17 @@
     "carousel": [
         {
             "id": 1,
-            "image": "https://george-fx.github.io/stephub/assets/carousel/01.png",
+            "image": "https://george-fx.github.io/stephub/assets/carousel/02.png",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 2,
-            "image": "https://george-fx.github.io/stephub/assets/carousel/01.png",
+            "image": "https://george-fx.github.io/stephub/assets/carousel/02.png",
             "promotion": "Welcome To StepHub! 50% Off"
         },
         {
             "id": 3,
-            "image": "https://george-fx.github.io/stephub/assets/carousel/01.png",
+            "image": "https://george-fx.github.io/stephub/assets/carousel/02.png",
             "promotion": "Welcome To StepHub! 50% Off"
         }
     ]
