@@ -14,7 +14,15 @@
         },
         {
             "id": 4,
-            "name": "accessories"
+            "name": "Accessories"
+        },
+        {
+            "id": 5,
+            "name": "Unisex"
+        },
+        {
+            "id": 6,
+            "name": "Sportswear"
         }
     ]
 }
