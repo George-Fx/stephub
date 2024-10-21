@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Acme Co.",
-            "code": "FootFlex Outlet",
+            "code": "Discount24",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/01.jpg",
             "discount": 50,
             "expiry": "june 30, 2024"
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "name": "Acme Co.",
-            "code": "UrbanStride Showcase",
+            "code": "Discount24",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
             "discount": 30,
             "expiry": "june 30, 2024"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "Acme Co.",
-            "code": "SneakPeak Plaza",
+            "code": "Discount24",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
             "discount": 15,
             "expiry": "june 30, 2024"
