@@ -2,6 +2,7 @@
     "promocodes": [
         {
             "id": 1,
+            "name": "Acme Co.",
             "code": "FootFlex Outlet",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/01.jpg",
             "discount": 50,
@@ -9,6 +10,7 @@
         },
         {
             "id": 2,
+            "name": "Acme Co.",
             "code": "UrbanStride Showcase",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/02.jpg",
             "discount": 30,
@@ -16,6 +18,7 @@
         },
         {
             "id": 3,
+            "name": "Acme Co.",
             "code": "SneakPeak Plaza",
             "image": "https://george-fx.github.io/stephub/assets/promocodes/03.jpg",
             "discount": 15,
